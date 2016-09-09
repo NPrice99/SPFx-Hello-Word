@@ -1,0 +1,6 @@
+{
+  "workingDir": "./temp/deploy/",
+  "account": "njpspfx",
+  "container": "helloworld-webpart",
+  "accessKey": "RIx1dd6RNDxXeOpPEgBMYXsWJb1WLB6AueZuhojS5uBlJW5HQ+xalxDuzETqX58qE6A4BbnJeU+uSQuKwMZpmg=="
+}
